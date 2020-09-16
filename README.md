@@ -13,4 +13,7 @@ GAME RULES:
 
 */
 
-https://dompiggamejs.netlify.app/
+<p align="center">Live preview: <a href="https://dompiggamejs.netlify.app/
+">Pig Game</a></p><br>
+
+
