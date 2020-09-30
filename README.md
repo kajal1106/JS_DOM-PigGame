@@ -1,5 +1,5 @@
 ## Pig Game
-Pig Game based on CSS3, Javascript using DOM Manipulation and Events.
+>This little pigGame app is just for fun based on CSS3, Javascript using DOM Manipulation and Events.
 
 
 /*
