@@ -1,4 +1,4 @@
-## Pig Game
+> ## Pig Game
 >This little pigGame app is just for fun based on CSS3, Javascript using DOM Manipulation and Events.
 
 
