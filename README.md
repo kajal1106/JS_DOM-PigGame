@@ -13,7 +13,7 @@ GAME RULES:
 
 */
 
-<p align="center">Live preview: <a href="https://dompiggamejs.netlify.app/
+<p align=""><b>Live preview:</b> <a href="https://dompiggamejs.netlify.app/
 ">Pig Game</a></p><br>
 
 
